@@ -5,7 +5,7 @@ import urllib
 import json
 import time
 
-token = "a627e66551df975403f1786cbf19c311d7ff20b23d84010fd866c5ce9a9c0077f88b445a68dfa6a8e01fd" #Сюда вводим свой токен.
+token = "f2f5c4155de7082a78e8a2cb53706695d49b50e1edd92f06ffc91bc46ca91db238e954d8cf2d85a90207e" #Сюда вводим свой токен.
 timeKD = 30 #Сюда вводим время обновления статуса.(Время в секундах)
 
 def startStatus():
